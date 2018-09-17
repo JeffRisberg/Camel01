@@ -38,7 +38,7 @@
     </dependencies>
 
     <build>
-        <finalName>camel-example-reportincident</finalName>
+        <finalName>Camel01</finalName>
 
         <plugins>
             <plugin>
