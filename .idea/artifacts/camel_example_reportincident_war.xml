@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="camel-example-reportincident:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="camel-example-reportincident.war">
+      <element id="artifact" artifact-name="camel-example-reportincident:war exploded" />
+    </root>
+  </artifact>
+</component>
